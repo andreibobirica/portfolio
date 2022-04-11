@@ -6,17 +6,17 @@
   "about": "I'm a developer, I like 3D printing & DIY projects.",
   "skills": [
     {
-      "src": "/logos/Qt.png",
+      "src": "/logos/qt.svg",
       "name": "Qt",
       "link": "https://www.qt.io"
     },
     {
-      "src": "/logos/cpp.png",
+      "src": "/logos/cpp.svg",
       "name": "C++",
       "link": "https://www.quora.com/Why-did-Bjarne-Stroustrup-create-C++"
     },
     {
-      "src": "/logos/sql.png",
+      "src": "/logos/db.svg",
       "name": "SQL/DB",
       "link": "https://mariadb.org"
     },
@@ -26,7 +26,7 @@
       "link": "https://www.docker.com"
     },
     {
-      "src": "/logos/python.png",
+      "src": "/logos/python.svg",
       "name": "Python",
       "link": "https://www.python.org"
     },
@@ -34,6 +34,31 @@
       "src": "/logos/github.svg",
       "name": "GitHub",
       "link": "https://github.com/"
+    },
+    {
+      "src": "/logos/php.svg",
+      "name": "PHP",
+      "link": ""
+    },
+    {
+      "src": "/logos/php.svg",
+      "name": "PHP",
+      "link": ""
+    },
+    {
+      "src": "/logos/nginx.svg",
+      "name": "NGINX",
+      "link": ""
+    },
+    {
+      "src": "/logos/js.svg",
+      "name": "JS",
+      "link": ""
+    },
+    {
+      "src": "/logos/java.svg",
+      "name": "JAVA",
+      "link": ""
     }
   ],
   "projects": [
@@ -44,13 +69,33 @@
       "tech": ["C++", "Qt", "QtCharts"],
       "links": {
         "GitHub": "https://github.com/andreibobirica/Filament3dPrint",
-        "DOC": "https://github.com/andreibobirica/Filament3dPrint/blob/79e5bfe5a9772c35638af9dd67ae13ad940b804a/relazione.pdf"
+        "Live": "https://github.com/andreibobirica/Filament3dPrint/blob/79e5bfe5a9772c35638af9dd67ae13ad940b804a/relazione.pdf"
+      }
+    },
+    {
+      "name": "Marlin ACB Fork",
+      "image": "/projects/marlin.png",
+      "about": "Marlin drives most of the world's 3D printers. I personalize Marlin with my Fork with the RelayMULTIE function.",
+      "tech": ["C++", "Marlin", "STM32F1"],
+      "links": {
+        "GitHub": "https://github.com/andreibobirica/Marlin",
+        "Live": "https://github.com/andreibobirica/Marlin"
+      }
+    },
+    {
+      "name": "Road To Amsterdam",
+      "image": "/projects/rta.png",
+      "about": "",
+      "tech": ["JAVA", "Android", "Android Studio"],
+      "links": {
+        "GitHub": "https://github.com/andreibobirica/RoadToAmsterdam/",
+        "Live": "https://github.com/andreibobirica/RoadToAmsterdam/blob/master/relazione-android-studio-road-to-amsterdam.pdf"
       }
     },
     {
       "name": "EBTAlert",
       "image": "/projects/ebt.png",
-      "about": "Demo Project, 'The hotel and flight search engine uses a unique and innovative revolutionary system specially designed to save time and money for its users.'",
+      "about": "Demo Project, 'The hotel and flight search engine EBT uses a unique and innovative system specially designed to save time and money for its users.'",
       "tech": ["Javascript", "MySQL", "PHP", "Boostrap"],
       "links": {
         "GitHub": "https://github.com/andreibobirica/EBTAlert",
@@ -87,7 +132,7 @@
     },
     {
       "name": "Telegram",
-      "icon": "telegram.png",
+      "icon": "telegram.svg",
       "link": "https://t.me/bob99and"
     }
   ]
