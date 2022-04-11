@@ -53,7 +53,7 @@ const Home: FC<Props> = ({ Posts }) => {
 export default Home;
 
 export const getStaticProps: GetStaticProps = async () => {
-  const Posts = await getPosts("avneesh0612");
+  const Posts = await getPosts("andreibobirica");
 
   return {
     props: {
