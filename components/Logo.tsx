@@ -14,7 +14,7 @@ const Logo: FC<LogoType> = ({ className }) => {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <title>Avneesh Agarwal</title>
+      <title>Andrei Cristian Bobirica</title>
       <path
         fillRule="evenodd"
         clipRule="evenodd"
