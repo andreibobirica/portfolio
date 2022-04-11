@@ -12,7 +12,7 @@ const Logo: FC<LogoType> = ({ className }) => {
     viewBox="0 0 626.000000 628.000000"
     preserveAspectRatio="xMidYMid meet">
     <g transform="translate(0.000000,628.000000) scale(0.100000,-0.100000)"
-    fill="#000000" stroke="none">
+    fill="#FFFFFF" stroke="none">
     <path d="M215 6078 c-3 -7 -4 -1343 -3 -2968 l3 -2955 2905 0 2905 0 0 2965 0
     2965 -2903 3 c-2317 2 -2904 0 -2907 -10z m5640 -2958 l0 -2795 -2735 0 -2735
     0 -3 2785 c-1 1532 0 2791 3 2798 3 10 556 12 2737 10 l2733 -3 0 -2795z"/>
