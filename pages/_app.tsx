@@ -28,9 +28,9 @@ function MyApp({ Component, pageProps }: AppProps) {
         titleTemplate={data.name}
         defaultTitle={data.name}
         description={data.about}
-        canonical="https://www.avneesh.tech/"
+        canonical="https://andreibobirica.ml"
         openGraph={{
-          url: "https://www.avneesh.tech/",
+          url: "https://andreibobirica.ml",
           title: data.name,
           description: data.about,
           images: [
@@ -42,15 +42,15 @@ function MyApp({ Component, pageProps }: AppProps) {
             },
           ],
           profile: {
-            firstName: "Avneesh",
+            firstName: "Andrei Cristian",
             gender: "Male",
-            lastName: "Agarwal",
-            username: "avneesh0612",
+            lastName: "Bobirica",
+            username: "andreibobirica",
           },
         }}
         twitter={{
-          handle: "@avneesh0612",
-          site: "@avneesh0612",
+          handle: "@andreibobirica",
+          site: "@andreibobirica",
           cardType: "summary_large_image",
         }}
       />

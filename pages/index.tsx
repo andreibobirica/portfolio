@@ -23,8 +23,8 @@ const Home: FC<Props> = ({ Posts }) => {
     <div>
       <Head>
         <meta
-          name="keywords"
-          content="Avneesh, Agarwal, Avneesh Agarwal, web dev, blogger, content creator"
+          name="Andrei Cristian Bobirica"
+          content="Student, Developer"
         />
         <link
           rel="alternate"
@@ -42,10 +42,8 @@ const Home: FC<Props> = ({ Posts }) => {
       <main className="relative pl-5 mb-10">
         <Intro />
         <About />
-        <Testimonials />
         <Projects />
         <Skills />
-        <Blog Posts={Posts} />
         <Contact />
       </main>
     </div>
