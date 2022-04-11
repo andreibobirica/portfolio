@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Avneesh Agarwal",
-  "short_name": "Avneesh",
-  "description": "This is Avneesh's resume",
+  "name": "Andrei Cristian Bobirica",
+  "short_name": "Andrei",
+  "description": "This is Andrei's resume",
   "icons": [
     {
       "src": "/icon-192x192.png",

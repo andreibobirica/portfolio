@@ -33,14 +33,6 @@ function MyApp({ Component, pageProps }: AppProps) {
           url: "https://andreibobirica.ml",
           title: data.name,
           description: data.about,
-          images: [
-            {
-              url: "https://www.avneesh.tech/og-image.png",
-              width: 800,
-              height: 420,
-              alt: data.name,
-            },
-          ],
           profile: {
             firstName: "Andrei Cristian",
             gender: "Male",
@@ -55,16 +47,6 @@ function MyApp({ Component, pageProps }: AppProps) {
         }}
       />
       <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="https://www.avneesh.tech/rss.xml"
-        />
-        <meta
-          property="og:image"
-          content="https://www.avneesh.tech/og-image.png"
-        />
       </Head>
       <Component {...pageProps} />
     </>

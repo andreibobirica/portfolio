@@ -26,12 +26,6 @@ const Home: FC<Props> = ({ Posts }) => {
           name="Andrei Cristian Bobirica"
           content="Student, Developer"
         />
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="https://www.avneesh.tech/rss.xml"
-        />
         <link rel="icon" href="/logo.svg" />
       </Head>
 
