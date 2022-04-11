@@ -69,7 +69,7 @@
     },
     {
       "name": "Marlin ACB Fork",
-      "image": "/projects/marlin.png",
+      "image": "/projects/marlin.svg",
       "about": "Marlin drives most of the world's 3D printers. I personalize Marlin with my Fork with the RelayMULTIE function.",
       "tech": ["C++", "Marlin", "STM32F1"],
       "links": {
