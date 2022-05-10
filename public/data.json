@@ -1,9 +1,9 @@
 {
   "name": "E-FIT",
   "image": "/LOGO1.png",
-  "profession": "Developer",
-  "intro": "The new Gym Model, E-FIT",
-  "about": "LOREM IPSUM SULLA PROPOSTA",
+  "profession": "",
+  "intro": "Rivoluziona il concetto di palestra",
+  "about": "Il modello di palestre attuali è diventato main stream, il mercato è saturo quindi bisogna introdurre idee innovative per rivoluzionare il settore. Il modello di palestra 'E-Fit' è un impianto che oltre ad offrire il servizio di palestra ai clienti è in grado di generare elettricità dai macchinari utilizzati.",
   "skills": [
     {
       "src": "/logos/enel.svg",
@@ -26,9 +26,9 @@
   ],
   "projects": [
     {
-      "name": "GYM",
+      "name": "Palestra",
       "image": "/projects/immaginePalestra.png",
-      "about": "DESCRIZIONE DEI SERVIZI DI PALESTRA CHE OFFRIAMO",
+      "about": "Viene offerta la possibilità di usurfuire delle migliori attrezzature in Palestra.",
       "tech": [""],
       "links": {
         "GitHub": "",
@@ -37,7 +37,7 @@
     },{
       "name": "CHARGING AUTO",
       "image": "/projects/immagineVeicolo.png",
-      "about": "DESCRIZIONE DEI SERVIZI DI PALESTRA CHE OFFRIAMO di ricarica auto",
+      "about": "Mentre ti alleni, produci corrente elettrica, puoi ricaricare la tua auto elettrica nel nostro parcheggio.",
       "tech": [""],
       "links": {
         "GitHub": "",
@@ -46,7 +46,7 @@
     },{
       "name": "Generazione Elettricità",
       "image": "/projects/immagineElettricità.png",
-      "about": "DESCRIZIONE DEI SERVIZI DI PALESTRA CHE OFFRIAMO",
+      "about": "L'energia in eccesso verrà erogata nel sistema nazionale, aiutando nella necessità di produzione elettrica.",
       "tech": [""],
       "links": {
         "GitHub": "",
@@ -55,7 +55,7 @@
     },{
       "name": "Fattore costo molto inferiore",
       "image": "/projects/immagineCosto.png",
-      "about": "DESCRIZIONE DEI SERVIZI DI PALESTRA CHE OFFRIAMO",
+      "about": "Producendo tu stesso la corrente elletrica, aiuti a diminuire il costo della struttura, facendo quindi diventare il prezzo della palestra molto economico.",
       "tech": [""],
       "links": {
         "GitHub": "",

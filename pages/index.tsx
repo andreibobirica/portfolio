@@ -26,7 +26,7 @@ const Home: FC<Props> = ({ Posts }) => {
           name="E-FIT"
           content="La Palestr Plug-IN"
         />
-        <link rel="icon" href="/LOGO1.ong" />
+        <link rel="icon" href="/LOGO1.png" />
       </Head>
 
       <div className="h-[10vh]">

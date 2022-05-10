@@ -26,7 +26,7 @@ const variants = {
 
 const headerItems = [
   {
-    name: "About",
+    name: "Info",
     href: "about",
   },
   {
@@ -34,7 +34,7 @@ const headerItems = [
     href: "work",
   },
   {
-    name: "Skills",
+    name: "Collaborazioni",
     href: "skills",
   },
   {

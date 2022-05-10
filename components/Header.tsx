@@ -47,19 +47,19 @@ const Header = () => {
 
   const headerItems = [
     {
-      name: "About",
+      name: "Info",
       href: "about",
     },
     {
-      name: "Work",
+      name: "Servizi",
       href: "work",
     },
     {
-      name: "Skills",
+      name: "Collaborazioni",
       href: "skills",
     },
     {
-      name: "Contact",
+      name: "Contatti",
       href: "contact",
     },
   ];
@@ -80,7 +80,6 @@ const Header = () => {
         href="intro"
         title="Avneesh"
       >
-        <Logo className="cursor-pointer" />
       </Link>
 
       <motion.nav
