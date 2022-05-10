@@ -7,7 +7,7 @@ import React from "react";
 const Projects = () => {
   return (
     <div id="work" className="md:ml-20">
-      <Title num={3} title="Some Things I’ve Built" />
+      <Title num={3} title="I Nostri Servizi" />
 
       <div className="flex flex-col">
         {data.projects.map((project, i) => (
@@ -34,28 +34,6 @@ const Projects = () => {
                 {project.tech.map((title) => {
                   <p>{title}</p>;
                 })}
-              </div>
-
-              <div className="flex mt-4 space-x-4">
-                <a
-                  target="_blank"
-                  rel="noreferrer"
-                  href={project.links.GitHub}
-                  className="flex items-center px-5 py-2 duration-100 border-2 rounded-lg fill-current stroke-current hover:bg-neongreen hover:border-neongreen hover:backdrop-blur-lg border-neongreen group-hover:text-white hover:text-white text-neongreen"
-                >
-                  <GitHubIcon />
-
-                  <span className="ml-2">GitHub</span>
-                </a>
-                <a
-                  target="_blank"
-                  rel="noreferrer"
-                  href={project.links.Live}
-                  className="flex items-center px-5 py-2 duration-100 border-2 rounded-lg fill-current stroke-current text-darkerblue bg-neongreen border-neongreen hover:bg-transparent hover:text-neongreen"
-                >
-                  <VisitIcon />
-                  <span className="ml-2">Visit</span>
-                </a>
               </div>
             </div>
           </article>

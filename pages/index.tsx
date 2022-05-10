@@ -23,10 +23,10 @@ const Home: FC<Props> = ({ Posts }) => {
     <div>
       <Head>
         <meta
-          name="Andrei Cristian Bobirica"
-          content="Student, Developer"
+          name="E-FIT"
+          content="La Palestr Plug-IN"
         />
-        <link rel="icon" href="/logo.svg" />
+        <link rel="icon" href="/LOGO1.ong" />
       </Head>
 
       <div className="h-[10vh]">

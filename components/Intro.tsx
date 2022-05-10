@@ -12,7 +12,7 @@ const Intro = () => {
       id="intro"
       className="space-y-5 mt-20 md:h-[60vh] md:ml-20"
     >
-      <p className="text-3xl text-neongreen font-fira">Hi, my name is</p>
+      <p className="text-3xl text-neongreen font-fira">La palestra PLUG-IN</p>
       <h1 className="text-5xl font-extrabold text-text md:text-8xl">
         {data.name}
       </h1>
@@ -34,7 +34,7 @@ const Intro = () => {
           href="contact"
         >
           <button className="py-2 px-5 !mt-10 hover:bg-neongreen hover:border-neongreen hover:backdrop-blur-lg hover:text-darkerblue duration-100 border-neongreen border-2 text-neongreen rounded-lg">
-            Reach out to me!
+            Contatti
           </button>
         </Link>
 
@@ -48,7 +48,7 @@ const Intro = () => {
           href="contact"
         >
           <button className="py-2 px-5 !mt-10 text-darkerblue bg-neongreen border-neongreen hover:bg-transparent duration-100 hover:text-neongreen border-2 rounded-lg">
-            Check out my work!
+            I Nostri Servizi
           </button>
         </Link>
       </div>

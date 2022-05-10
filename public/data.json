@@ -1,134 +1,68 @@
 {
-  "name": "Andrei Cristian Bobirica",
-  "image": "/Me.png",
+  "name": "E-FIT",
+  "image": "/LOGO1.png",
   "profession": "Developer",
-  "intro": "I'm studying computer science at UNIPD. 🤓",
-  "about": "I'm a developer, I like 3D printing & DIY projects.",
+  "intro": "The new Gym Model, E-FIT",
+  "about": "LOREM IPSUM SULLA PROPOSTA",
   "skills": [
     {
-      "src": "/logos/qt.svg",
-      "name": "Qt",
-      "link": "https://www.qt.io"
-    },
-    {
-      "src": "/logos/cpp.svg",
-      "name": "C++",
-      "link": "https://www.quora.com/Why-did-Bjarne-Stroustrup-create-C++"
-    },
-    {
-      "src": "/logos/db.svg",
-      "name": "SQL/DB",
-      "link": "https://mariadb.org"
-    },
-    {
-      "src": "/logos/docker.svg",
-      "name": "Docker",
-      "link": "https://www.docker.com"
-    },
-    {
-      "src": "/logos/python.svg",
-      "name": "Python",
-      "link": "https://www.python.org"
-    },
-    {
-      "src": "/logos/github.svg",
-      "name": "GitHub",
-      "link": "https://github.com/"
-    },
-    {
-      "src": "/logos/php.svg",
-      "name": "PHP",
+      "src": "/logos/enel.svg",
+      "name": "ENEL X",
       "link": ""
     },
     {
-      "src": "/logos/nginx.svg",
-      "name": "NGINX",
+      "src": "/logos/eon.svg",
+      "name": "E ON",
       "link": ""
-    },
-    {
-      "src": "/logos/js.svg",
-      "name": "JS",
+    },{
+      "src": "/logos/becharge.svg",
+      "name": "BE CHARGE",
       "link": ""
-    },
-    {
-      "src": "/logos/java.svg",
-      "name": "JAVA",
+    },{
+      "src": "/logos/tesla.svg",
+      "name": "TESLA",
       "link": ""
     }
   ],
   "projects": [
     {
-      "name": "Filament3dPrint",
-      "image": "/projects/f3dp.png",
-      "about": "Fialment3dPrint is a useful program for those who print in 3D, it provides an application with which record and view the data of 3D prints, it also reprocesses this data and shows useful graphics.",
-      "tech": ["C++", "Qt", "QtCharts"],
+      "name": "GYM",
+      "image": "/projects/immaginePalestra.png",
+      "about": "DESCRIZIONE DEI SERVIZI DI PALESTRA CHE OFFRIAMO",
+      "tech": [""],
       "links": {
-        "GitHub": "https://github.com/andreibobirica/Filament3dPrint",
-        "Live": "https://github.com/andreibobirica/Filament3dPrint/blob/79e5bfe5a9772c35638af9dd67ae13ad940b804a/relazione.pdf"
+        "GitHub": "",
+        "Live": ""
       }
-    },
-    {
-      "name": "Marlin ACB Fork",
-      "image": "/projects/marlin.svg",
-      "about": "Marlin drives most of the world's 3D printers. I personalize Marlin with my Fork with the RelayMULTIE function.",
-      "tech": ["C++", "Marlin", "STM32F1"],
+    },{
+      "name": "CHARGING AUTO",
+      "image": "/projects/immagineVeicolo.png",
+      "about": "DESCRIZIONE DEI SERVIZI DI PALESTRA CHE OFFRIAMO di ricarica auto",
+      "tech": [""],
       "links": {
-        "GitHub": "https://github.com/andreibobirica/Marlin",
-        "Live": "https://github.com/andreibobirica/Marlin"
+        "GitHub": "",
+        "Live": ""
       }
-    },
-    {
-      "name": "Road To Amsterdam",
-      "image": "/projects/rta.png",
-      "about": "",
-      "tech": ["JAVA", "Android", "Android Studio"],
+    },{
+      "name": "Generazione Elettricità",
+      "image": "/projects/immagineElettricità.png",
+      "about": "DESCRIZIONE DEI SERVIZI DI PALESTRA CHE OFFRIAMO",
+      "tech": [""],
       "links": {
-        "GitHub": "https://github.com/andreibobirica/RoadToAmsterdam/",
-        "Live": "https://github.com/andreibobirica/RoadToAmsterdam/blob/master/relazione-android-studio-road-to-amsterdam.pdf"
+        "GitHub": "",
+        "Live": ""
       }
-    },
-    {
-      "name": "EBTAlert",
-      "image": "/projects/ebt.png",
-      "about": "Demo Project, 'The hotel and flight search engine EBT uses a unique and innovative system specially designed to save time and money for its users.'",
-      "tech": ["Javascript", "MySQL", "PHP", "Boostrap"],
+    },{
+      "name": "Fattore costo molto inferiore",
+      "image": "/projects/immagineCosto.png",
+      "about": "DESCRIZIONE DEI SERVIZI DI PALESTRA CHE OFFRIAMO",
+      "tech": [""],
       "links": {
-        "GitHub": "https://github.com/andreibobirica/EBTAlert",
-        "Live": "https://www.ebtalert.cloud"
+        "GitHub": "",
+        "Live": ""
       }
     }
   ],
   "testimonials": [],
-  "links": [
-    {
-      "name": "GitHub",
-      "icon": "github.svg",
-      "link": "https://github.com/andreibobirica"
-    },
-    {
-      "name": "Twitter",
-      "icon": "twitter.svg",
-      "link": "https://twitter.com/AndreiBobirica"
-    },
-    {
-      "name": "Instagram",
-      "icon": "instagram.svg",
-      "link": "https://www.instagram.com/andrei.bob99/"
-    },
-    {
-      "name": "Mail me",
-      "icon": "mail.svg",
-      "link": "mailto:andreibobirica99@gmail.com"
-    },
-    {
-      "name": "LinkedIn",
-      "icon": "linkedin.svg",
-      "link": "https://www.linkedin.com/in/andrei-cristian-bobirica-045b23154/"
-    },
-    {
-      "name": "Telegram",
-      "icon": "telegram.svg",
-      "link": "https://t.me/bob99and"
-    }
-  ]
+  "links": []
 }

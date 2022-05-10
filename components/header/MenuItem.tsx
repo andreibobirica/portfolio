@@ -30,7 +30,7 @@ const headerItems = [
     href: "about",
   },
   {
-    name: "Work",
+    name: "Servizi",
     href: "work",
   },
   {
@@ -38,7 +38,7 @@ const headerItems = [
     href: "skills",
   },
   {
-    name: "Contact",
+    name: "Contatti",
     href: "contact",
   },
 ];
